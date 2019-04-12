@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ConnectFuture",""]],"struct":[["UnixConnector","A type which implements hyper's client connector interface for unix domain sockets"]]});
